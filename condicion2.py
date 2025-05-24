@@ -1,0 +1,1 @@
+print("condicion2")
